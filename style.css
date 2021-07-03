@@ -1,7 +1,11 @@
 h1
 {
     color: royalblue;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p{
     color: olive;
+    font-size: larger;
+    font-family: sans-serif;
 }
